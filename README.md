@@ -7,5 +7,5 @@ To watch demo video, click on the client-profile-page-demo_4MB.mov.zip, then cli
 
 Photos:
 
-[Computer Screen](computer.png)
-[iPhone Screen](iPhone_screen.png)
+![Computer Screen](computer.png)
+![iPhone Screen](iPhone_screen.png)
