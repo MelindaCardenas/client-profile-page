@@ -9,3 +9,6 @@ Photos:
 
 ![Computer Screen](computer.png)
 ![iPhone Screen](iPhone_screen.png)
+![iPad Screen](iPad_screen.png)
+![Crop Photo Feature](cropper.png)
+![Client Activities](activities_computer screen.png)
